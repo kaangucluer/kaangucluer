@@ -1,26 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kaan Güçlüer</h1>
 
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144f233cf7020d064a8e9ef86e2bfd1ee3535c6da&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144f233cf7020d064a8e9ef86e2bfd1ee3535c6da&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaangucluer&label=Profile%20views&color=0e75b6&style=flat" alt="kaangucluer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaangucluer&label=Profile%20views&color=0e75b6&style=flat" alt="kaangucluer" /> </p>
 
 
-<p align="left">
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/kaangucluer/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
   <a href="https://instagram.com/kaan.gucluer"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>&nbsp;&nbsp;
-  
+  <a href="https://twitter.com/GucluerKaan"> <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> 
+  </a>&nbsp;&nbsp;
   <a href="https://discord.gg/3QHaaykw4y"> <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /> 
   </a>&nbsp;&nbsp;
-  
   <a href="https://kaangucluer.medium.com/"> <img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" /> 
   </a>&nbsp;&nbsp;
-  
  <a href="https://twitter.com/gucluerkaan" target="blank"><img src="https://img.shields.io/twitter/follow/gucluerkaan?logo=twitter&style=for-the-badge" alt="gucluerkaan" /></a> </p>
 
 - 🌱 I’m currently learning **Java , Spring Framework**
