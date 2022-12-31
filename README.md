@@ -18,6 +18,8 @@
   </a>&nbsp;&nbsp;
   <a href="https://kaangucluer.medium.com/"> <img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" /> 
   </a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/kaang"> <img src="https://img.shields.io/badge/linktree-%230077B5.svg?&style=for-the-badge&logo=linktree&logoColor=white" /> 
+  </a>&nbsp;&nbsp;
  <a href="https://twitter.com/gucluerkaan" target="blank"><img src="https://img.shields.io/twitter/follow/gucluerkaan?logo=twitter&style=for-the-badge" alt="gucluerkaan" /></a> </p>
 
 - 🌱 I’m currently learning **Java , Spring Framework**
