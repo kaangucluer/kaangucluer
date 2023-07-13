@@ -22,7 +22,7 @@
   </a>&nbsp;&nbsp;
  <a href="https://twitter.com/gucluerkaan" target="blank"><img src="https://img.shields.io/twitter/follow/gucluerkaan?logo=twitter&style=for-the-badge" alt="gucluerkaan" /></a> </p>
 
-- 🌱 I’m currently learning **Java , Spring Framework**
+- 🌱 I’m currently learning **C , Java , Spring Framework**
 
 - 📝 I regularly write articles on [https://kaangucluer.medium.com/](https://kaangucluer.medium.com/)
 
