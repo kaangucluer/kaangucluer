@@ -47,3 +47,5 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk3po85z002108m9inhrwk3l/stats?cursusId=21&coalitionId=362" alt="kgucluer's 42 stats" /></a>
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk3po85z002108m9inhrwk3l/project/3143961" alt="kgucluer's 42 Libft Score" /></a>
+
