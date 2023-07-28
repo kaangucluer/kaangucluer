@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Güçlüer</h1>
 
 
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144f233cf7020d064a8e9ef86e2bfd1ee3535c6da&rid=giphy.gif&ct=g">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaangucluer&label=Profile%20views&color=0e75b6&style=flat" alt="kaangucluer" /> </p>
 
