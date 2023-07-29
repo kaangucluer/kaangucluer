@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://kaangucluer.medium.com/](https://kaangucluer.medium.com/)
 
-- 📫 How to reach me **gucluer.kaan71@gmail.com**
+- 📫 How to reach me **kaan.gucluerr@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
